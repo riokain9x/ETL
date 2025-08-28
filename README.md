@@ -7,9 +7,8 @@ Many people signup for their training. Company wants to know which of these cand
 
 Information related to demographics, education, experience are in hands from candidates signup and enrollment.
 
-## Extract
 
-### Data Sources
+## Data Sources
 
 ### 1. Enrollies' Data
 
@@ -96,7 +95,7 @@ Employment status retrieved from the LMS database. If student is marked as emplo
 
 ---
 
-## 3. Transform
+## Transform
 
 After extraction, we applied the following transformation steps:
 
