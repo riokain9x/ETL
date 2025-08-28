@@ -1,12 +1,11 @@
 # ETL & Logistic Regression
 ## 1. Introduction
 
-A company active in Big Data and Data Science wants to recruit potential employees from its training program. Many people sign up for the training, but not all are interested in joining the company afterward. This project aims to:
+A company which is active in Big Data and Data Science wants to hire data scientists among people who successfully pass some courses which conduct by the company.
 
-- Build an ETL pipeline that gathers and cleans all relevant data
-- Train a logistic regression model to predict whether a learner is likely to work for the company after the course
+Many people signup for their training. Company wants to know which of these candidates are really wants to work for the company after training or looking for a new employment because it helps to reduce the cost and time as well as the quality of training or planning the courses and categorization of candidates.
 
----
+Information related to demographics, education, experience are in hands from candidates signup and enrollment.
 
 ## 2. Extract
 
